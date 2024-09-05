@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eginterod.github.io/sitemap.html.gz
+Sitemap: https://eginterod.github.io/app/sitemap.html.gz
+Sitemap: https://eginterod.github.io/assets/sitemap.html.gz
+Sitemap: https://eginterod.github.io/css/sitemap.html.gz
+Sitemap: https://eginterod.github.io/includes/sitemap.html.gz
+Sitemap: https://eginterod.github.io/item/sitemap.html.gz
+Sitemap: https://eginterod.github.io/src/sitemap.html.gz
